@@ -9,3 +9,4 @@ site/
 venv*/
 .nox
 .python-version
+root_key
